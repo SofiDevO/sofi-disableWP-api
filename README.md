@@ -20,7 +20,7 @@
 ## Installation
 
 ### Option 1: Download ZIP and Upload to WordPress
-1. [Download the ZIP file](https://github.com/SofiDevO/sofidev-disable-api/raw/main/sofi-disableWP-api.zip).
+1. [Download the ZIP file](https://github.com/SofiDevO/sofi-disableWP-api/raw/main/sofi-disableWP-api.zip).
 2. Log in to your WordPress admin dashboard.
 3. Go to **Plugins > Add New > Upload Plugin**.
 4. Click **Choose File**, select `sofi-disableWP-api.zip`, and then click **Install Now**.
