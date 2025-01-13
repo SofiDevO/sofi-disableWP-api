@@ -4,7 +4,7 @@
  * Plugin URI: https://github.com/SofiDevO/sofi-disableWP-api
  * Description: Disable the REST API for non-authenticated users
  * Version: 1.0
- * Author: Tu Nombre
+ * Author: SofiDev
  * Author URI: https://links.itssofi.dev/
  * License: GPLv2 or later
  */

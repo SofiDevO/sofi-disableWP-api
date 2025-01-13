@@ -1,5 +1,5 @@
 === Sofidev Disable API ===
-Contributors: sofi-dev
+Contributors: SofiDev
 Tags: rest api, security, authentication
 Requires at least: 5.0
 Tested up to: 5.8
