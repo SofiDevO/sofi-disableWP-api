@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Sofidev Disable API
- * Plugin URI: https://github.com/SofiDevO
+ * Plugin URI: https://github.com/SofiDevO/sofi-disableWP-api
  * Description: Disable the REST API for non-authenticated users
  * Version: 1.0
  * Author: Tu Nombre
@@ -9,7 +9,7 @@
  * License: GPLv2 or later
  */
 
-
+ 
 if ( ! defined( 'ABSPATH' ) ) {
     exit; // Exit if accessed directly
 }

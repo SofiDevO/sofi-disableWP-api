@@ -96,8 +96,10 @@ This plugin is licensed under the [GNU General Public License v2.0 or later](htt
 ```
 📦sofi-disableWP-api
 ┣ 📜README.md
-┣ 📜disable-rest-api.php
-┣ 📜sofi-disableWP-api.zip
+┣ 📁disable-rest-api
+  ┗ 📁assets
+  ┗ 📁trunk
+┣ 🗜️sofi-disableWP-api.zip
 ```
 
 ---
